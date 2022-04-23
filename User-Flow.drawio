@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T06:11:06.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VYhT5K2UgYMTacQ3R--D" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-23T06:15:17.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8quJmGZuX1I0X5MFjfet" version="17.4.5" type="github" pages="2">
   <diagram id="diMyKVSU2RBrQCB_hpbt" name="Page-1">
     <mxGraphModel dx="2144" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="650" pageHeight="500" math="0" shadow="0">
       <root>
@@ -499,6 +499,15 @@
         <mxCell id="PPtRJY-cbByZfIrBNd5C-162" value="Assigned Ticket Lists" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2335" y="2028" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontColor=#FF3333;" edge="1" parent="1" source="PPtRJY-cbByZfIrBNd5C-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1379.9999999999995" y="1536" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1205" y="1488" />
+              <mxPoint x="1380" y="1488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PPtRJY-cbByZfIrBNd5C-167" value="list of searched events&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#c0c0c0;labelBackgroundColor=#ffffff;shadow=0;dashed=0;strokeWidth=1;rounded=0;glass=0;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="1145" y="1355" width="120" height="60" as="geometry" />
         </mxCell>
@@ -747,22 +756,43 @@
           <mxGeometry x="-430" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=default;gradientColor=#ffffff;gradientDirection=radial;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="2509" width="100" height="50" as="geometry" />
+          <mxGeometry x="-416" y="2509" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=default;" edge="1" parent="1" source="xhcRC_01i3a4LCbuO9Yn-11" target="xhcRC_01i3a4LCbuO9Yn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-11" value="show attendee ticket" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=default;strokeColor=default;strokeWidth=1;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="-432" y="2580" width="100" height="100" as="geometry" />
+          <mxGeometry x="-416" y="2568" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-12" value="convert to pdf" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;rounded=0;glass=0;labelBackgroundColor=none;strokeWidth=1;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="-442" y="2780" width="120" height="60" as="geometry" />
+          <mxGeometry x="-426" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-14" value="Age" style="whiteSpace=wrap;html=1;fontSize=20;align=center;strokeWidth=2;rounded=0;glass=0;labelBackgroundColor=none;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="-426" y="2424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhcRC_01i3a4LCbuO9Yn-16" value="&lt;font size=&quot;1&quot;&gt;0:2:30:16&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="97.67" y="1718" width="53.34" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-17" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;rounded=0;glass=0;fontSize=17;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1536" width="128" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-18" value="" style="shape=or;whiteSpace=wrap;html=1;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;fontSize=15;strokeColor=default;strokeWidth=1;gradientColor=#ffffff;gradientDirection=radial;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="1576" width="111" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-19" value="title" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="1580" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-20" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="1592" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-21" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;requirments&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1) +18&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2) الرقم القومى&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="1656" width="108" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontColor=#FF3333;" edge="1" parent="1" source="xhcRC_01i3a4LCbuO9Yn-25" target="xhcRC_01i3a4LCbuO9Yn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xhcRC_01i3a4LCbuO9Yn-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;glass=0;labelBackgroundColor=none;fontSize=9;fontColor=#FF3333;gradientColor=#ffffff;gradientDirection=radial;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="1344" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
