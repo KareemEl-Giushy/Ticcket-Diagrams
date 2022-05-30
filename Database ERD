@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T21:30:20.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="7vJbOlF8DqmFf9PJwHZU" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T21:32:22.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="rODr0vBvxAtGch_E8sbt" version="18.0.7" type="github">
   <diagram id="irnjRwRTFhvMyW88_xku" name="ERD">
-    <mxGraphModel dx="914" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
         </mxCell>
         <mxCell id="G7kgBmuBiPWiTcll0Noy-2" value="Events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5ZFu_Nri7tQJRfFX95fn-89" vertex="1" connectable="0">
           <mxGeometry x="-0.6333" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5ZFu_Nri7tQJRfFX95fn-77" value="Tickets" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -254,7 +254,7 @@
         </mxCell>
         <mxCell id="G7kgBmuBiPWiTcll0Noy-3" value="Users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5ZFu_Nri7tQJRfFX95fn-85" vertex="1" connectable="0">
           <mxGeometry x="0.5786" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5ZFu_Nri7tQJRfFX95fn-83" value="Has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
